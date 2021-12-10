@@ -1,4 +1,4 @@
-# Mock Test UI
+# Mock Test UI - Flutter
 
 A simple ui to start developing mock test application. Pull this code into your editor and start developing.
 
